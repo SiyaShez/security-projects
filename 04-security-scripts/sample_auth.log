@@ -1,0 +1,10 @@
+Aug  6 09:12:01 lab-server sshd[1023]: Failed password for root from 203.0.113.45 port 51422 ssh2
+Aug  6 09:12:03 lab-server sshd[1023]: Failed password for root from 203.0.113.45 port 51423 ssh2
+Aug  6 09:12:05 lab-server sshd[1023]: Failed password for root from 203.0.113.45 port 51424 ssh2
+Aug  6 09:12:07 lab-server sshd[1023]: Failed password for invalid user admin from 203.0.113.45 port 51425 ssh2
+Aug  6 09:12:09 lab-server sshd[1023]: Failed password for invalid user admin from 203.0.113.45 port 51426 ssh2
+Aug  6 09:15:12 lab-server sshd[1044]: Failed password for siyabonga from 198.51.100.22 port 33211 ssh2
+Aug  6 09:20:45 lab-server sshd[1055]: Failed password for invalid user test from 192.0.2.77 port 40011 ssh2
+Aug  6 09:21:01 lab-server sshd[1055]: Failed password for invalid user test from 192.0.2.77 port 40012 ssh2
+Aug  6 09:21:15 lab-server sshd[1055]: Failed password for invalid user oracle from 192.0.2.77 port 40013 ssh2
+Aug  6 09:30:02 lab-server sshd[1077]: Failed password for root from 203.0.113.45 port 51500 ssh2

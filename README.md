@@ -17,8 +17,8 @@ Each folder below is a self-contained project with its own write-up, methodology
 
 ## Background
 
-CompTIA Security+ certified, currently building practical experience through TryHackMe, CTF
+im currently building practical experience through TryHackMe, CTF
 challenges, and this home lab. Software engineering background in React, Flask, and MySQL.
 
-- Portfolio: [https://portfolio-ten-jade-a6y9ug5o97.vercel.app/]
+- Portfolio: https://portfolio-ten-jade-a6y9ug5o97.vercel.app/
 - LinkedIn: www.linkedin.com/in/siyabonga-moyo-5687082a4
